@@ -72,7 +72,7 @@ I care about writing code that:
 ## 🔥 Things I've Built (That Cost Me Sleep)
 
 #### **🧾 NexDesk**
-End-to-end retail system for billing, inventory, and payments, running in production for 6+ months.  
+End-to-end retail system for billing, inventory, and payments, operating in production for 6+ months, processing 350+ invoices and managing 200+ active customer profiles, with continuously growing transaction volume.  
 >*turns out bugs involving money have a very short lifespan* · [View Demo](https://nexdesk-pm11.vercel.app/)
 
 #### **🛠 ResolveHub** 
